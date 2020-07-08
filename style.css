@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  ul {
+    overflow: hidden;
+    background: green;
+    margin: 0;
+    list-style: none;
+  }
+  
+  ul li {
+    float: left;
+  }
+  
+  ul li a {
+    padding: 18px 20px;
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+  }
+  
+  
